@@ -1,0 +1,80 @@
+button:hover {
+	cursor: pointer;
+}
+.header {
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 1000px;
+    height: 80px;
+    border: 1px solid black;
+    display: flex;
+}
+.label1 {
+    margin-top: 10px;
+}
+.inp_name {
+    margin-left: 20px;
+    width: 100px;
+}
+.label2 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.inp_surname {
+    margin-left: 20px;
+    width: 180px;
+}
+.label3 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.inp_birthday {
+    margin-left: 20px;
+    width: 80px;
+}
+.btn_add {
+    margin-left: 60px;
+}
+.btn_clear {
+    margin-left: 30px;
+}
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item {
+    margin-top: 30px;
+    width: 1000px;
+    height: 110px;
+    display: flex; 
+    border-bottom: 1px solid black;   
+}
+.number {
+    width: 60px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.name {
+    width: 250px;
+    padding-top: 20px;
+    color:brown;
+    font-size: 20px;
+}
+.surname {
+    width: 350px;
+    padding-top: 20px;
+    color:blue;
+    font-size: 20px;
+}
+.birthday {
+    width: 200px;
+    padding-top: 20px;
+    color:rgb(255, 0, 179);
+    font-size: 20px;
+}
+
+
+
